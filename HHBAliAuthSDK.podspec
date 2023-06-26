@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HHBAliAuthSDK'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '阿里云一键登录的framework资源管理仓库.'
 
 # This description is used to generate tags and improve search results.
