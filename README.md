@@ -1,5 +1,7 @@
 # HHBAliAuthSDK
 
+HBAliAuthSDK 是 阿里云一键登录的framework资源管理仓库 目前阿里云sdk版本为：v2.12.13.1-2023.05.12.
+
 [![CI Status](https://img.shields.io/travis/liuchengfei/HHBAliAuthSDK.svg?style=flat)](https://travis-ci.org/liuchengfei/HHBAliAuthSDK)
 [![Version](https://img.shields.io/cocoapods/v/HHBAliAuthSDK.svg?style=flat)](https://cocoapods.org/pods/HHBAliAuthSDK)
 [![License](https://img.shields.io/cocoapods/l/HHBAliAuthSDK.svg?style=flat)](https://cocoapods.org/pods/HHBAliAuthSDK)

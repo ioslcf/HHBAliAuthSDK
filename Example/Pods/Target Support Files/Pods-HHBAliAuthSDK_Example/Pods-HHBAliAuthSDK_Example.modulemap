@@ -1,0 +1,6 @@
+framework module Pods_HHBAliAuthSDK_Example {
+  umbrella header "Pods-HHBAliAuthSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

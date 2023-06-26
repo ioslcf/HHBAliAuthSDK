@@ -1,0 +1,6 @@
+framework module HHBAliAuthSDK {
+  umbrella header "HHBAliAuthSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
