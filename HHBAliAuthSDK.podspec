@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HHBAliAuthSDK'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = '阿里云一键登录的framework资源管理仓库.'
 
 # This description is used to generate tags and improve search results.
@@ -32,13 +32,13 @@ Pod::Spec.new do |s|
 
   s.pod_target_xcconfig = {'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'   }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  
+
   s.resources           = 'HHBAliAuthSDK/ATAuthSDK.framework/ATAuthSDK.bundle'
   s.vendored_frameworks = 'HHBAliAuthSDK/ATAuthSDK.framework','HHBAliAuthSDK/YTXMonitor.framework','HHBAliAuthSDK/YTXOperators.framework'
   s.static_framework = false
 
   # s.source_files = 'HBAliAuthSDK/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'HBAliAuthSDK' => ['HBAliAuthSDK/Assets/*.png']
   # }
@@ -51,7 +51,7 @@ Pod::Spec.new do |s|
 
 
   # s.source_files = 'HHBAliAuthSDK/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'HHBAliAuthSDK' => ['HHBAliAuthSDK/Assets/*.png']
   # }
